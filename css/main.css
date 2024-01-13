@@ -57,8 +57,6 @@ body {
    }
 }
 
-
-
 .title img {
     width: 25px;
     margin-right: 25px;
@@ -79,6 +77,10 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.btn:hover .acordion-title{
+    color:  hsl(281, 83%, 54%)
 }
 
 .btn img {
